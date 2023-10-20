@@ -1,0 +1,26 @@
+1. Create a brand name for the software..10xfocus
+2. Create all the required graphics, pictures, etc.. rebrand the logo of the application
+3. Create the Ui of the software using ui.py with one class inside...
+4. Load all the graphics into the ui by calling the ui class instance in the main.py
+5. Create the functionality of the buttons use another class passing in any other dependent class and edit the functionalities of these buttons
+
+6. Include setting tab into the app # Use one class to define all of these...
+    In the setting tab allow the user to have full customization of the software...
+    This will involve having a separate different window joined with the main window...
+    The grid and pack frame - use the grid system only for simplicity
+7. Edit the Mit license into a unique one.. # text file
+8. Test the app into an executable using inosetup compiler..
+9. Release the software into a separate github repo with all the files needed... + all open source platforms...
+10. Conduct a mass testing with the software in github
+ 11. Once satisfied, move the software to www.yumixlabs.com
+
+
+
+
+
+
+
+
+
+
+
